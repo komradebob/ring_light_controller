@@ -1,7 +1,7 @@
 # ring_light_controller
 Ring Light Controller
 
-A While back I was inspired by the 'Lights Aziz' project to build a ring light controller for a microscope. While ordering up some WS2812 LEDs to build my own variant, I came across pre built rings of LEDS on eBay. Ordered a few up, and here we are. 
+A while back I was inspired by the 'Lights Aziz' project to build a ring light controller for a microscope. While ordering up some WS2812 LEDs to build my own variant, I came across pre built rings of LEDS on eBay. Ordered a few up, and here we are. 
 
 This is a project to drive a microscope ring light created from a strip of WS2811/2812 LEDs using a DigiSpark Arduino clone.
 
