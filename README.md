@@ -33,6 +33,6 @@ After using this a while, I think the Left/Right options are probably redundant 
 
 The RGB set modes could be avoided with 3 pots and 3 analog ports. But that means moving to a different controller. But slide pots are a pain to cut panels for. :)
 
-
-
 The circuit is pretty simple: Pin PB0 (aka pin 1) is the output to the LED ring. Pins PB1/2 to the rotary encoder, PB3 to the encoder switch. PB5 to the wiper of a 10k linear taper pot connecting 5V to ground. 5V comes from a wall wart, passes through a switch on the pot, then feeds the pot, the LED ring, the power LED, and the Digispark. 
+
+Other future expansions include using the same controller to control a second, smaller ring located closer to the nose of the scope.
